@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/b8/96/27/b896273c3b7d702f1a661fc501a67126.jpg");
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+
+header {
+    color: rgb(232, 76, 45);
+    background-color: white;
+    text-align: center;
+    width: 77%;
+    margin: auto;    
+    text-shadow: 0px 1px black;
+}
+
+.BarraDeNavegacion {
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    letter-spacing: 1px;
+    text-align: center;    
+    padding-left: 2%;
+    font-weight: bolder;
+}
+
+.BarraDeNavegacion a {
+    text-decoration: none;
+    color: rgb(232, 76, 45);
+    text-shadow: 0px 1px black;
+    font-size: x-large;
+}
+
+.CentrarNav {
+    background-color: white;
+    width: 71%;
+    margin: auto;
+    padding: 0% 3% 2%;
+    border: 5px solid black;
+    border-style: groove;
+}
+
+p {
+    text-align: justify;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
